@@ -1,0 +1,27 @@
+{
+  "name": "prcticesplit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "age-by-birthdate": "^1.0.1",
+    "base64-img": "^1.0.4",
+    "base64-to-image": "^1.0.2",
+    "express": "^4.17.3",
+    "extend-class": "^1.0.4",
+    "getter-setter": "^0.2.1",
+    "js-yaml": "^4.1.0",
+    "log4js": "^6.5.2",
+    "mongoose": "^6.3.2",
+    "node-base64-image": "^2.0.4",
+    "nodemon": "^2.0.15",
+    "ts-mixer": "^6.0.1",
+    "yaml": "^2.1.1"
+  }
+}

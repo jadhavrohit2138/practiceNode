@@ -1,0 +1,5 @@
+dependancy:
+  type: multiFile
+  base: logs/
+  property: categoryName
+  extension: .log
